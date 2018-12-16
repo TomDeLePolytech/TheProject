@@ -1,2 +1,2 @@
 # TheProject
-Le projet Arduino de toute une vie / Un drone en préparation
+Le projet Arduino de toute une vie / Un mini air hockey automatisé
